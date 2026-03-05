@@ -1,0 +1,27 @@
+p {
+  font-size: 12pt;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: black;
+  text-align: center;
+}
+h1 {
+  font-size: 25pt;
+  color: blue;
+}
+.price {
+  font-size: 25pt;
+}
+article {
+  background-color: blanchedalmond;
+}
+.cart {
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgba(175, 165, 25, 0.973);
+  color: white;
+  display: block;
+  margin: 0 auto;
+  padding: 10px 20px;
+}
+h2 {
+  text-align: center;
+}
