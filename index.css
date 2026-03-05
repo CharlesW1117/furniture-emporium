@@ -16,12 +16,17 @@ article {
 }
 .cart {
   font-family: "Times New Roman", Times, serif;
-  background-color: rgba(175, 165, 25, 0.973);
-  color: white;
+  background-color: rgb(250, 246, 18);
+  color: rgb(0, 0, 0);
   display: block;
   margin: 0 auto;
   padding: 10px 20px;
 }
+
 h2 {
   text-align: center;
+}
+button:active {
+  background-color: #fdfdfb; /* Change this to your preferred "click" color */
+  transform: scale(0.98); /* Optional: adds a slight "pressed" effect */
 }
