@@ -3,6 +3,8 @@ p {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: black;
   text-align: center;
+  margin: 15pt;
+  padding: 5pt;
 }
 h1 {
   font-size: 25pt;
